@@ -1,4 +1,4 @@
-module github/vvk17/P96-api-gateway
+module github.com/vvk17/P96-api-gateway
 
 go 1.18
 
