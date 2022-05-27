@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/vvk17/P96-api-gateway/config"
+	"github.com/vvk17/P96-api-gateway/pkg/config"
 )
 
 func main() {
